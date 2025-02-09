@@ -1,0 +1,12 @@
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/bin/Debug/net9.0/ObjectOrientedTest.deps.json
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/bin/Debug/net9.0/ObjectOrientedTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/bin/Debug/net9.0/ObjectOrientedTest.pdb
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ObjectOrientedTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ObjectOrientedTest.AssemblyInfoInputs.cache
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ObjectOrientedTest.AssemblyInfo.cs
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ObjectOrientedTest.csproj.CoreCompileInputs.cache
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ObjectOrientedTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/refint/ObjectOrientedTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ObjectOrientedTest.pdb
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ref/ObjectOrientedTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/ObjectOrientedTest/obj/Debug/net9.0/ObjectOrientedTest.csproj.AssemblyReference.cache

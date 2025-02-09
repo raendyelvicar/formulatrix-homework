@@ -1,0 +1,11 @@
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/bin/Debug/net9.0/CodingCompetencyTest.deps.json
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/bin/Debug/net9.0/CodingCompetencyTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/bin/Debug/net9.0/CodingCompetencyTest.pdb
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/CodingCompetencyTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/CodingCompetencyTest.AssemblyInfoInputs.cache
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/CodingCompetencyTest.AssemblyInfo.cs
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/CodingCompetencyTest.csproj.CoreCompileInputs.cache
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/CodingCompetencyTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/refint/CodingCompetencyTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/CodingCompetencyTest.pdb
+/Users/whm/Documents/Formulatrix/Formulatrix/CodingCompetencyTest/obj/Debug/net9.0/ref/CodingCompetencyTest.dll

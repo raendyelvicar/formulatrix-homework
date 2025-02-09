@@ -1,0 +1,21 @@
+﻿services:
+  #source: https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/
+  db:
+    image: postgres:14-alpine
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=mysecretpassword
+      - POSTGRES_USER=formulatrix_user
+      - POSTGRES_DB=formulatrix_db
+        
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+
+volumes:
+  pgdata:

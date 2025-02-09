@@ -1,0 +1,11 @@
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/bin/Debug/net9.0/SoftwareComprehensionTest.deps.json
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/bin/Debug/net9.0/SoftwareComprehensionTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/bin/Debug/net9.0/SoftwareComprehensionTest.pdb
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/SoftwareComprehensionTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/SoftwareComprehensionTest.AssemblyInfoInputs.cache
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/SoftwareComprehensionTest.AssemblyInfo.cs
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/SoftwareComprehensionTest.csproj.CoreCompileInputs.cache
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/SoftwareComprehensionTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/refint/SoftwareComprehensionTest.dll
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/SoftwareComprehensionTest.pdb
+/Users/whm/Documents/Formulatrix/Formulatrix/SoftwareComprehensionTest/obj/Debug/net9.0/ref/SoftwareComprehensionTest.dll

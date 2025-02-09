@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulatrix", "Formulatrix\Formulatrix.csproj", "{5F94D795-A0B8-4E66-8973-8F2BC6FC52D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedTest", "ObjectOrientedTest\ObjectOrientedTest.csproj", "{76BBE85D-EEC1-4536-92D9-749206E1458A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingCompetencyTest", "CodingCompetencyTest\CodingCompetencyTest.csproj", "{0A31E14F-C38E-4246-9168-20E7F2E4D414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareComprehensionTest", "SoftwareComprehensionTest\SoftwareComprehensionTest.csproj", "{E73DD46F-0754-439C-9159-C0CD68F4C7E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodingCompetencyTest", "CodingCompetencyTest", "{C0628325-A684-4181-9393-A7717CCAA431}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectOrientedTest", "ObjectOrientedTest", "{D6C82A82-4DCC-44F1-A657-E2A3A046F647}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SoftwareComprehensionTest", "SoftwareComprehensionTest", "{712417CB-E56D-4E5B-A50F-53C65F5F441F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83864505-625C-4DF0-80B2-BA60C6465330}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F94D795-A0B8-4E66-8973-8F2BC6FC52D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F94D795-A0B8-4E66-8973-8F2BC6FC52D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F94D795-A0B8-4E66-8973-8F2BC6FC52D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F94D795-A0B8-4E66-8973-8F2BC6FC52D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BBE85D-EEC1-4536-92D9-749206E1458A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BBE85D-EEC1-4536-92D9-749206E1458A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BBE85D-EEC1-4536-92D9-749206E1458A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BBE85D-EEC1-4536-92D9-749206E1458A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A31E14F-C38E-4246-9168-20E7F2E4D414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A31E14F-C38E-4246-9168-20E7F2E4D414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A31E14F-C38E-4246-9168-20E7F2E4D414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A31E14F-C38E-4246-9168-20E7F2E4D414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73DD46F-0754-439C-9159-C0CD68F4C7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73DD46F-0754-439C-9159-C0CD68F4C7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73DD46F-0754-439C-9159-C0CD68F4C7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73DD46F-0754-439C-9159-C0CD68F4C7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A31E14F-C38E-4246-9168-20E7F2E4D414} = {C0628325-A684-4181-9393-A7717CCAA431}
+		{76BBE85D-EEC1-4536-92D9-749206E1458A} = {D6C82A82-4DCC-44F1-A657-E2A3A046F647}
+		{E73DD46F-0754-439C-9159-C0CD68F4C7E0} = {712417CB-E56D-4E5B-A50F-53C65F5F441F}
+	EndGlobalSection
+EndGlobal
